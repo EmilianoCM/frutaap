@@ -1,8 +1,6 @@
 # frutaap
 <<<<<<< HEAD
 repositorio de la app para venta de frutas y verduras
-Gordo lindo 
-negro putito
 =======
 
 A new Flutter project.
