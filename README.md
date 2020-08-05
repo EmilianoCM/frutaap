@@ -3,7 +3,7 @@
 repositorio de la app para venta de frutas y verduras
 =======
 
-A new Flutter project.
+Proyecto Laboratorio de Soluciones Inteligentes
 
 ## Getting Started
 
