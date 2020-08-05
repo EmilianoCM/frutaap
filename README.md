@@ -1,7 +1,7 @@
 # frutaap
 <<<<<<< HEAD
 repositorio de la app para venta de frutas y verduras
-Gordo 
+Gordo lindo 
 negro putito
 =======
 
