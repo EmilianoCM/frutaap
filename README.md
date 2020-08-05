@@ -1,6 +1,7 @@
 # frutaap
 <<<<<<< HEAD
 repositorio de la app para venta de frutas y verduras
+Gordo hermoso
 =======
 
 A new Flutter project.
