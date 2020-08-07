@@ -24,7 +24,8 @@ class Splash extends StatelessWidget {
                 ),
                 FlatButton(
                   onPressed: () {},
-                  child: Text('Empezar'),
+                  padding: EdgeInsets.all(10.0),
+                  child: Text('* Empezar * '),
                   color: Colors.green,
                 )
               ],
