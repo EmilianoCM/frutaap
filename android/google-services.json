@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "101267387496",
+    "firebase_url": "https://frutaap.firebaseio.com",
+    "project_id": "frutaap",
+    "storage_bucket": "frutaap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101267387496:android:4acc6c5e44ff2206e137dd",
+        "android_client_info": {
+          "package_name": "com.example.frutaap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101267387496-1kt45b87fjtrj6g177cmq73f2q8srboa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEHUYMUfLKdSHbqLu8mbyi5ti0KDP5Xg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101267387496-1kt45b87fjtrj6g177cmq73f2q8srboa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
